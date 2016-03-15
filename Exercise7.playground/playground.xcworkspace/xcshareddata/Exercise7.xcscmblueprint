@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EA5D3F0EDAC1A0901909E5386A378276BBD6FAF0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EA5D3F0EDAC1A0901909E5386A378276BBD6FAF0" : 0,
+    "7D77E939B6E284D4E8EF9728ED7D71BA85D80DB8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1774E0DE-9219-427A-AE90-F7C13D3B28EF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EA5D3F0EDAC1A0901909E5386A378276BBD6FAF0" : "Exercise7\/",
+    "7D77E939B6E284D4E8EF9728ED7D71BA85D80DB8" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Exercise7",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Exercise7.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mathewsheets\/SwiftLearning",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7D77E939B6E284D4E8EF9728ED7D71BA85D80DB8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/smink\/Exercise7.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EA5D3F0EDAC1A0901909E5386A378276BBD6FAF0"
+    }
+  ]
+}
